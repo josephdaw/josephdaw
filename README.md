@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @josephdaw
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS, Javascript.
+- 📫 Reach out to me via [JosephDaw.com](josephdaw.com)
 <!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+ --->
 
 <!---
 josephdaw/josephdaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
