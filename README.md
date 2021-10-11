@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephdaw
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS, Javascript.
-- 📫 Reach out to me via [JosephDaw.com](http://www.josephdaw.com)
+- 📫 Reach out to me via [my website](http://www.josephdaw.com)
 <!--- - 💞️ I’m looking to collaborate on ...
  --->
 
