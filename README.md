@@ -13,6 +13,7 @@ Welcome, my name is Joseph Daw. I'm a full stack developer with a passion for ma
 <!-- [<img align="left" alt="josephdaw | YouTube" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
 <br />
+<br />
 
 ### Tools:
 
@@ -21,6 +22,7 @@ Welcome, my name is Joseph Daw. I'm a full stack developer with a passion for ma
 [<img align="left" alt="Terminal" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" alt="Visual Studio Code" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
+<br />
 <br />
 
 ### Languages
