@@ -1,7 +1,7 @@
 # Hi, I'm Joe 👨🏼‍💻
+![GitHub Followers](https://img.shields.io/github/followers/josephdaw?label=Followers&style=for-the-badge&logo=github)
 [![Website](https://img.shields.io/website?label=josephdaw.com&style=for-the-badge&url=http%3A%2F%2Fjosephdaw.com)](http://josephdaw.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Joseph_Daw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjosephdaw&screen_name=Joseph_Daw)
-
 
 Welcome, my name is Joseph Daw. I am a full stack developer with a passion for making the web a safer, more secure place.
 
