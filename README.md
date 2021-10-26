@@ -1,20 +1,21 @@
-# Hi, I'm Joseph 👨🏼‍💻
+# Hi, I'm Joe 👨🏼‍💻
 [![Website](https://img.shields.io/website?label=josephdaw.com&style=for-the-badge&url=http%3A%2F%2Fjosephdaw.com)](http://josephdaw.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Joseph_Daw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjosephdaw&screen_name=Joseph_Daw)
 
+Welcome, my name is Joseph Daw. I'm a full stack developer with a passion for making the web a safer, more secure place! If you have a project in mind I would love to hear from you. You can reach out to me via one of the methods below.
 <!-- - 👋 Hi, I’m @josephdaw
 - 👀 I’m interested in web development. -->
-- 🌱 I’m currently learning full stack web development.
-- 📫 Reach out to me via [my website](http://www.josephdaw.com)
+<!-- - 🌱 I’m currently learning full stack web development.
+- 📫 Reach out to me via [my website](http://www.josephdaw.com) -->
 <!--- - 💞️ I’m looking to collaborate on ...
  --->
 
 ### Connect with me:
 
-[<img align="left" alt="josephdaw.com" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-- [<img align="left" alt="josephdaw | YouTube" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="josephdaw.com" height="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="josephdaw | YouTube" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
 <br />
 
