@@ -2,7 +2,12 @@
 [![Website](https://img.shields.io/website?label=josephdaw.com&style=for-the-badge&url=http%3A%2F%2Fjosephdaw.com)](http://josephdaw.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Joseph_Daw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjosephdaw&screen_name=Joseph_Daw)
 
-Welcome, my name is Joseph Daw. I'm a full stack developer with a passion for making the web a safer, more secure place! If you have a project in mind I would love to hear from you. You can reach out to me via one of the methods below.
+Welcome, my name is Joseph Daw. I am a full stack developer with a passion for making the web a safer, more secure place.
+
+For over a decade I have been teaching myself various programming languages, rebuilding computers, and designing solutions to streamline tasks. 
+I enjoy using technology to save time, especially for repeatitive jobs. I recently enrolled in the [Adelaide University Coding Boot Camp](https://bootcamps.adelaide.edu.au) as a way of developing my skills to a much higher level.
+
+If you have a project in mind I would love to hear from you. You can reach out to me via one of the methods below.
 
 
 ### Connect with me:
@@ -42,7 +47,6 @@ Welcome, my name is Joseph Daw. I'm a full stack developer with a passion for ma
 [<img align="left" alt="MongoDB" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website] -->
 
 
-
 <br/><br/>
 
 
@@ -50,7 +54,7 @@ Welcome, my name is Joseph Daw. I'm a full stack developer with a passion for ma
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephdaw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- github activity -->
-[![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephdaw)](https://github.com/anuraghazra/github-readme-stats)
+[![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephdaw&hide=stars&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- link references -->
