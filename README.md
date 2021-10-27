@@ -54,7 +54,7 @@ If you have a project in mind I would love to hear from you. You can email me at
 <br/>
 
 <!--- top coding languages --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephdaw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephdaw)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- github activity -->
 [![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephdaw&hide=stars&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
