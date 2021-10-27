@@ -8,6 +8,8 @@ Welcome, my name is Joseph Daw. I am a full stack developer with a passion for m
 For over a decade I have been teaching myself various programming languages, rebuilding computers, and designing solutions to streamline tasks. 
 I enjoy using technology to save time, especially for repeatitive jobs. I recently enrolled in the [Adelaide University Coding Boot Camp](https://bootcamps.adelaide.edu.au) as a way of developing my skills to a much higher level.
 
+Check out my [personal portfolio](https://josephdaw.github.io/) that I have coded myself, or head over to [my blog](http://josephdaw.com/blog/) to read about some of my coding projects and experiences
+
 If you have a project in mind I would love to hear from you. You can email me at [info@josephdaw.com](mailto:info@josephdaw.com) or reach out to me via one of the methods below.
 
 
