@@ -18,8 +18,7 @@ If you have a project in mind I would love to hear from you. You can email me at
 [<img align="left" alt="codeSTACKr | Twitter" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- [<img align="left" alt="josephdaw | YouTube" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
-<br />
-<br />
+<br /><br />
 
 
 
@@ -70,7 +69,7 @@ If you have a project in mind I would love to hear from you. You can email me at
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/><br/>
+<br/>
 
 
 <!--- top coding languages --->
