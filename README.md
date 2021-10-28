@@ -12,15 +12,13 @@ Check out my [personal portfolio](https://josephdaw.github.io/) that I have code
 
 If you have a project in mind I would love to hear from you. You can email me at [info@josephdaw.com](mailto:info@josephdaw.com) or reach out to me via one of the methods below.
 
-
 ## Connect with me
+[<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>][blog]
+[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+<!-- [<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube] -->
 
-[<img align="left" alt="josephdaw.com" height="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-- [<img align="left" alt="josephdaw | YouTube" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-
-<br /><br />
+<!-- <br /><br /> -->
 
 ## Languages
 
@@ -30,11 +28,12 @@ If you have a project in mind I would love to hear from you. You can email me at
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Frameworks, Platforms, and Libraries
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-01d1b2.svg?style=for-the-badge&logo=bulma&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-01d1b2.svg?style=for-the-badge&logo=bulma&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/font%20awesome-339AF0.svg?style=for-the-badge&logo=font%20awesome&logoColor=white)
+![MaterializeCSS](https://img.shields.io/badge/materialize-ee6e73.svg?style=for-the-badge)
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,6 +61,7 @@ If you have a project in mind I would love to hear from you. You can email me at
 
 <!-- link references -->
 [website]: https://josephdaw.github.io/
+[blog]: http://josephdaw.com/blog
 [twitter]: https://twitter.com/Joseph_Daw
 [linkedin]: https://www.linkedin.com/in/joseph-daw/
 [youtube]: https://www.youtube.com/channel/UCmaD2xcrGr8JReGL7BzQs5g
