@@ -21,7 +21,6 @@ If you have a project in mind I would love to hear from you. You can email me at
 <!-- <br /><br /> -->
 
 ## Languages
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,6 +42,11 @@ If you have a project in mind I would love to hear from you. You can email me at
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xero](https://img.shields.io/badge/Xero-13B5EA.svg?style=for-the-badge&logo=xero&logoColor=white)
+
+## Network Administration
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white)
 
 ## Design
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
