@@ -29,6 +29,7 @@ If you have a project in mind I would love to hear from you. You can email me at
 ## Frameworks, Platforms, and Libraries
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-01d1b2.svg?style=for-the-badge&logo=bulma&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/font%20awesome-339AF0.svg?style=for-the-badge&logo=font%20awesome&logoColor=white)
