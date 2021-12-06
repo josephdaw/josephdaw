@@ -34,6 +34,7 @@ If you have a project in mind I would love to hear from you. You can email me at
 ![Bulma](https://img.shields.io/badge/bulma-01d1b2.svg?style=for-the-badge&logo=bulma&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/font%20awesome-339AF0.svg?style=for-the-badge&logo=font%20awesome&logoColor=white)
 ![MaterializeCSS](https://img.shields.io/badge/materialize-ee6e73.svg?style=for-the-badge)
+![Sequelize](https://img.shields.io/badge/sequelize-52B0E7.svg?&logo=sequelize&logoColor=white)
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
